@@ -1,7 +1,4 @@
-# ITS Projekt 1
-
-- **Autor:** Mikuláš Uřídil (xuridi01)
-- **Datum:** 2024-04-03
+# Testování UI e-shopu pomocí Behave a Selenium
 
 ## Matice pokrytí artefaktů
 
